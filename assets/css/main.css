@@ -2316,7 +2316,11 @@ input, select, textarea {
 		}
 
 /* Image */
-
+   
+#borderimg1 {
+	border: 2px solid #585858;
+	padding: 0px;
+    }
 	.image {
 		border-radius: 4px;
 		border: 0;
