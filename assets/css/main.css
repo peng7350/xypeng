@@ -3188,6 +3188,11 @@ input, select, textarea {
 			}
 
 		}
+	.column {
+		float: left;
+		padding-right: 4rem;
+	}
+	
 
 /* Footer */
 
